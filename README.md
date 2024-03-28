@@ -198,3 +198,13 @@ https://en.wikipedia.org/wiki/Lock_%28computer_science%29
 https://www.hackingwithrust.net/2024/01/22/simplifying-concurrency-easy-implementation-of-double-checked-locking-pattern-in-rust/  
 
 https://blogs.oracle.com/maa/post/from-chaos-to-order-the-importance-of-concurrency-control-within-the-database-2-of-6  
+
+## Таблиця першоджерел
+
+| Дизайн паттерн | Посилання |
+|----------------|-----------|
+| Мультитон      | [Medium](https://justgokus.medium.com/what-is-the-multiton-design-pattern-eeeb5dd8bc7d), [Wikipedia](https://en.wikipedia.org/wiki/Multiton_pattern), [Stack Overflow](https://stackoverflow.com/questions/9631087/multiton-real-world-example) |
+| Адаптер        | [DZone](https://dzone.com/articles/adapter-design-pattern-in-java), [Pentalog](https://www.pentalog.com/blog/design-patterns/adapter-design-pattern/), [Stackify](https://stackify.com/design-patterns-explained-adapter-pattern-with-code-examples/) |
+| Інтерпретатор  | [Visual Paradigm](https://tutorials.visual-paradigm.com/interpreter-pattern-tutorial/), [Simple Tech Talks](https://simpletechtalks.com/interpreter-design-pattern-explained-with-simple-example/), [GeeksforGeeks](https://www.geeksforgeeks.org/interpreter-design-pattern/) |
+| Багаторівневе блокування | [Educative](https://www.educative.io/courses/deep-dive-into-the-internals-of-the-database/optimistic-vs-pessimistic-concurrency-control), [IBM](https://www.ibm.com/docs/en/db2/10.5?topic=management-locks-concurrency-control), [OSTEP](https://pages.cs.wisc.edu/~remzi/OSTEP/threads-locks-usage.pdf) |
+| Модифікація розблокування | [Hacking with Rust](https://www.hackingwithrust.net/2024/01/22/simplifying-concurrency-easy-implementation-of-double-checked-locking-pattern-in-rust/), [Oracle Blogs](https://blogs.oracle.com/maa/post/from-chaos-to-order-the-importance-of-concurrency-control-within-the-database-2-of-6) |
