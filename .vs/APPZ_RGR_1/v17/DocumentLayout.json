@@ -3,7 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Yarik\\source\\repos\\APPZ_RGR_1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3EC5826E-5577-41BF-BF1B-1BE6E2298713}|..\\Interpreter\\Interpreter.csproj|c:\\users\\yarik\\source\\repos\\interpreter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{207523D1-BF08-4659-A112-BD7EC9613CFA}|Adapter\\Adapter.csproj|c:\\users\\yarik\\source\\repos\\appz_rgr_1\\adapter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{207523D1-BF08-4659-A112-BD7EC9613CFA}|Adapter\\Adapter.csproj|solutionrelative:adapter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EA7B033F-3E3A-454D-B5C5-D19AE1078DFB}|Multiton\\Multiton.csproj|c:\\users\\yarik\\source\\repos\\appz_rgr_1\\multiton\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -17,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -36,17 +37,8 @@
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Yarik\\source\\repos\\Interpreter\\Program.cs",
-              "RelativeDocumentMoniker": "..\\Interpreter\\Program.cs",
-              "ToolTip": "C:\\Users\\Yarik\\source\\repos\\Interpreter\\Program.cs",
-              "RelativeToolTip": "..\\Interpreter\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-28T10:50:00.591Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
@@ -56,9 +48,22 @@
               "RelativeDocumentMoniker": "Multiton\\Program.cs",
               "ToolTip": "C:\\Users\\Yarik\\source\\repos\\APPZ_RGR_1\\Multiton\\Program.cs",
               "RelativeToolTip": "Multiton\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-28T10:49:38.308Z",
+              "WhenOpened": "2024-03-28T10:56:02.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Yarik\\source\\repos\\APPZ_RGR_1\\Adapter\\Program.cs",
+              "RelativeDocumentMoniker": "Adapter\\Program.cs",
+              "ToolTip": "C:\\Users\\Yarik\\source\\repos\\APPZ_RGR_1\\Adapter\\Program.cs",
+              "RelativeToolTip": "Adapter\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T10:56:01.218Z",
               "EditorCaption": ""
             }
           ]

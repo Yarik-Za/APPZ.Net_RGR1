@@ -1,0 +1,15 @@
+C:\Users\Yarik\source\repos\APPZ_RGR_1\Multiton\bin\Debug\net8.0\Multiton.exe
+C:\Users\Yarik\source\repos\APPZ_RGR_1\Multiton\bin\Debug\net8.0\Multiton.deps.json
+C:\Users\Yarik\source\repos\APPZ_RGR_1\Multiton\bin\Debug\net8.0\Multiton.runtimeconfig.json
+C:\Users\Yarik\source\repos\APPZ_RGR_1\Multiton\bin\Debug\net8.0\Multiton.dll
+C:\Users\Yarik\source\repos\APPZ_RGR_1\Multiton\bin\Debug\net8.0\Multiton.pdb
+C:\Users\Yarik\source\repos\APPZ_RGR_1\Multiton\obj\Debug\net8.0\Multiton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yarik\source\repos\APPZ_RGR_1\Multiton\obj\Debug\net8.0\Multiton.AssemblyInfoInputs.cache
+C:\Users\Yarik\source\repos\APPZ_RGR_1\Multiton\obj\Debug\net8.0\Multiton.AssemblyInfo.cs
+C:\Users\Yarik\source\repos\APPZ_RGR_1\Multiton\obj\Debug\net8.0\Multiton.csproj.CoreCompileInputs.cache
+C:\Users\Yarik\source\repos\APPZ_RGR_1\Multiton\obj\Debug\net8.0\Multiton.sourcelink.json
+C:\Users\Yarik\source\repos\APPZ_RGR_1\Multiton\obj\Debug\net8.0\Multiton.dll
+C:\Users\Yarik\source\repos\APPZ_RGR_1\Multiton\obj\Debug\net8.0\refint\Multiton.dll
+C:\Users\Yarik\source\repos\APPZ_RGR_1\Multiton\obj\Debug\net8.0\Multiton.pdb
+C:\Users\Yarik\source\repos\APPZ_RGR_1\Multiton\obj\Debug\net8.0\Multiton.genruntimeconfig.cache
+C:\Users\Yarik\source\repos\APPZ_RGR_1\Multiton\obj\Debug\net8.0\ref\Multiton.dll
