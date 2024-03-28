@@ -9,6 +9,7 @@ Multiton - це шаблон проектування, який узагальн
 
 
 ```mermaid
+
  classDiagram
     class Multiton {
         +getInstance(key: string): Multiton
@@ -16,7 +17,7 @@ Multiton - це шаблон проектування, який узагальн
         -instances: Map<string, Multiton>
     }
     Multiton o-- Multiton: instances
-    ```
+```
 
 
 Основні складові:
@@ -52,7 +53,7 @@ classDiagram
     }
     Target <|-- Adapter
     Adapter o-- Adaptee
-    ```
+```
 
 
 Основні складові:
