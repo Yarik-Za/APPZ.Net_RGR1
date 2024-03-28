@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "z2AaSnVVrhpQSpsiUmWlf+fue5ZYAx4nlkTAtAfXIhWKHoiqW7ix1Vn9+kp2eLGcDwD+nH0srDG4uyFIC2oE2Q==",
+  "dgSpecHash": "Y3qUGR9QlQIDdaatV8+B+sgx/k6BfxH0rLhuGqo0fua6hYvVYG7GYWZFyfSXNmV4y0+GeZqYyS+LJwd1l5b48w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Yarik\\source\\repos\\APPZ_RGR_1\\Interpreter\\Interpreter.csproj",
+  "projectFilePath": "C:\\Users\\Yarik\\source\\repos\\APPZ_RGR_1\\C#\\Interpreter\\Interpreter.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Yarik\\source\\repos\\APPZ_RGR_1\\Lock\\Lock.csproj": {}
+    "C:\\Users\\Yarik\\source\\repos\\APPZ_RGR_1\\C#\\Lock\\Lock.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Yarik\\source\\repos\\APPZ_RGR_1\\Lock\\Lock.csproj": {
+    "C:\\Users\\Yarik\\source\\repos\\APPZ_RGR_1\\C#\\Lock\\Lock.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Yarik\\source\\repos\\APPZ_RGR_1\\Lock\\Lock.csproj",
+        "projectUniqueName": "C:\\Users\\Yarik\\source\\repos\\APPZ_RGR_1\\C#\\Lock\\Lock.csproj",
         "projectName": "Lock",
-        "projectPath": "C:\\Users\\Yarik\\source\\repos\\APPZ_RGR_1\\Lock\\Lock.csproj",
+        "projectPath": "C:\\Users\\Yarik\\source\\repos\\APPZ_RGR_1\\C#\\Lock\\Lock.csproj",
         "packagesPath": "C:\\Users\\Yarik\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Yarik\\source\\repos\\APPZ_RGR_1\\Lock\\obj\\",
+        "outputPath": "C:\\Users\\Yarik\\source\\repos\\APPZ_RGR_1\\C#\\Lock\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Yarik\\AppData\\Roaming\\NuGet\\NuGet.Config",

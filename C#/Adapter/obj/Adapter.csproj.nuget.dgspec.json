@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Yarik\\source\\repos\\APPZ_RGR_1\\Adapter\\Adapter.csproj": {}
+    "C:\\Users\\Yarik\\source\\repos\\APPZ_RGR_1\\C#\\Adapter\\Adapter.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Yarik\\source\\repos\\APPZ_RGR_1\\Adapter\\Adapter.csproj": {
+    "C:\\Users\\Yarik\\source\\repos\\APPZ_RGR_1\\C#\\Adapter\\Adapter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Yarik\\source\\repos\\APPZ_RGR_1\\Adapter\\Adapter.csproj",
+        "projectUniqueName": "C:\\Users\\Yarik\\source\\repos\\APPZ_RGR_1\\C#\\Adapter\\Adapter.csproj",
         "projectName": "Adapter",
-        "projectPath": "C:\\Users\\Yarik\\source\\repos\\APPZ_RGR_1\\Adapter\\Adapter.csproj",
+        "projectPath": "C:\\Users\\Yarik\\source\\repos\\APPZ_RGR_1\\C#\\Adapter\\Adapter.csproj",
         "packagesPath": "C:\\Users\\Yarik\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Yarik\\source\\repos\\APPZ_RGR_1\\Adapter\\obj\\",
+        "outputPath": "C:\\Users\\Yarik\\source\\repos\\APPZ_RGR_1\\C#\\Adapter\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Yarik\\AppData\\Roaming\\NuGet\\NuGet.Config",
