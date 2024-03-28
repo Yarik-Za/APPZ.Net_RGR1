@@ -143,8 +143,17 @@ classDiagram
 **Приклади використання:**
 Для надання контролю за конкуренцією та запобігання неконтрольованому доступу до даних, менеджер бази даних ставить блокування на буферні пули.
 
+## Таблиця посилань на першоджерела
 
-## Список використаних матеріалів 
+| Дизайн паттерн | Посилання |
+|----------------|-----------|
+| Мультитон      | [Medium](https://justgokus.medium.com/what-is-the-multiton-design-pattern-eeeb5dd8bc7d), [Wikipedia](https://en.wikipedia.org/wiki/Multiton_pattern), [Stack Overflow](https://stackoverflow.com/questions/9631087/multiton-real-world-example), [Code Chuckle](https://medium.com/@codechuckle/demystifying-design-patterns-multiton-pattern-859b50638a9f), [Code Project](https://www.codeproject.com/Articles/1178694/Singleton-and-Multiton-Pattern) |
+| Адаптер        | [DZone](https://dzone.com/articles/adapter-design-pattern-in-java), [Pentalog](https://www.pentalog.com/blog/design-patterns/adapter-design-pattern/), [Stackify](https://stackify.com/design-patterns-explained-adapter-pattern-with-code-examples/), [GeeksforGeeks](https://www.geeksforgeeks.org/adapter-pattern/), [OODesign](https://www.oodesign.com/adapter-pattern), [The Coded Self](https://www.thecodedself.com/The-Difference-Between-an-Adapter-and-a-Wrapper/), [Stack Interface](https://stackinterface.com/adapter-design-pattern/), [FreeCodeCamp](https://www.freecodecamp.org/news/design-pattern-for-modern-backend-development-and-use-cases/) |
+| Інтерпретатор  | [Visual Paradigm](https://tutorials.visual-paradigm.com/interpreter-pattern-tutorial/), [Simple Tech Talks](https://simpletechtalks.com/interpreter-design-pattern-explained-with-simple-example/), [GeeksforGeeks](https://www.geeksforgeeks.org/interpreter-design-pattern/), [Dot Net Tutorials](https://dotnettutorials.net/lesson/interpreter-design-pattern/), [InfoWorld](https://www.infoworld.com/article/3243279/how-to-work-with-the-interpreter-design-pattern.html), [TutorialsPoint](https://www.tutorialspoint.com/design_pattern/interpreter_pattern.htm) |
+| Багаторівневе блокування | [Educative](https://www.educative.io/courses/deep-dive-into-the-internals-of-the-database/optimistic-vs-pessimistic-concurrency-control), [IBM](https://www.ibm.com/docs/en/db2/10.5?topic=management-locks-concurrency-control), [OSTEP](https://pages.cs.wisc.edu/~remzi/OSTEP/threads-locks-usage.pdf), [GeeksforGeeks](https://www.geeksforgeeks.org/two-phase-locking-protocol/), [Wikipedia](https://en.wikipedia.org/wiki/Lock_%28computer_science%29) |
+| Модифікація розблокування | [Hacking with Rust](https://www.hackingwithrust.net/2024/01/22/simplifying-concurrency-easy-implementation-of-double-checked-locking-pattern-in-rust/), [Oracle Blogs](https://blogs.oracle.com/maa/post/from-chaos-to-order-the-importance-of-concurrency-control-within-the-database-2-of-6) |
+
+## Посилання на джерела інформації
 https://justgokus.medium.com/what-is-the-multiton-design-pattern-eeeb5dd8bc7d  
 
 https://en.wikipedia.org/wiki/Multiton_pattern  
@@ -199,12 +208,3 @@ https://www.hackingwithrust.net/2024/01/22/simplifying-concurrency-easy-implemen
 
 https://blogs.oracle.com/maa/post/from-chaos-to-order-the-importance-of-concurrency-control-within-the-database-2-of-6  
 
-## Таблиця першоджерел
-
-| Дизайн паттерн | Посилання |
-|----------------|-----------|
-| Мультитон      | [Medium](https://justgokus.medium.com/what-is-the-multiton-design-pattern-eeeb5dd8bc7d), [Wikipedia](https://en.wikipedia.org/wiki/Multiton_pattern), [Stack Overflow](https://stackoverflow.com/questions/9631087/multiton-real-world-example) |
-| Адаптер        | [DZone](https://dzone.com/articles/adapter-design-pattern-in-java), [Pentalog](https://www.pentalog.com/blog/design-patterns/adapter-design-pattern/), [Stackify](https://stackify.com/design-patterns-explained-adapter-pattern-with-code-examples/) |
-| Інтерпретатор  | [Visual Paradigm](https://tutorials.visual-paradigm.com/interpreter-pattern-tutorial/), [Simple Tech Talks](https://simpletechtalks.com/interpreter-design-pattern-explained-with-simple-example/), [GeeksforGeeks](https://www.geeksforgeeks.org/interpreter-design-pattern/) |
-| Багаторівневе блокування | [Educative](https://www.educative.io/courses/deep-dive-into-the-internals-of-the-database/optimistic-vs-pessimistic-concurrency-control), [IBM](https://www.ibm.com/docs/en/db2/10.5?topic=management-locks-concurrency-control), [OSTEP](https://pages.cs.wisc.edu/~remzi/OSTEP/threads-locks-usage.pdf) |
-| Модифікація розблокування | [Hacking with Rust](https://www.hackingwithrust.net/2024/01/22/simplifying-concurrency-easy-implementation-of-double-checked-locking-pattern-in-rust/), [Oracle Blogs](https://blogs.oracle.com/maa/post/from-chaos-to-order-the-importance-of-concurrency-control-within-the-database-2-of-6) |
