@@ -1,0 +1,15 @@
+C:\Users\Yarik\source\repos\APPZ_RGR_1\Lock\bin\Debug\net8.0\Lock.exe
+C:\Users\Yarik\source\repos\APPZ_RGR_1\Lock\bin\Debug\net8.0\Lock.deps.json
+C:\Users\Yarik\source\repos\APPZ_RGR_1\Lock\bin\Debug\net8.0\Lock.runtimeconfig.json
+C:\Users\Yarik\source\repos\APPZ_RGR_1\Lock\bin\Debug\net8.0\Lock.dll
+C:\Users\Yarik\source\repos\APPZ_RGR_1\Lock\bin\Debug\net8.0\Lock.pdb
+C:\Users\Yarik\source\repos\APPZ_RGR_1\Lock\obj\Debug\net8.0\Lock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yarik\source\repos\APPZ_RGR_1\Lock\obj\Debug\net8.0\Lock.AssemblyInfoInputs.cache
+C:\Users\Yarik\source\repos\APPZ_RGR_1\Lock\obj\Debug\net8.0\Lock.AssemblyInfo.cs
+C:\Users\Yarik\source\repos\APPZ_RGR_1\Lock\obj\Debug\net8.0\Lock.csproj.CoreCompileInputs.cache
+C:\Users\Yarik\source\repos\APPZ_RGR_1\Lock\obj\Debug\net8.0\Lock.sourcelink.json
+C:\Users\Yarik\source\repos\APPZ_RGR_1\Lock\obj\Debug\net8.0\Lock.dll
+C:\Users\Yarik\source\repos\APPZ_RGR_1\Lock\obj\Debug\net8.0\refint\Lock.dll
+C:\Users\Yarik\source\repos\APPZ_RGR_1\Lock\obj\Debug\net8.0\Lock.pdb
+C:\Users\Yarik\source\repos\APPZ_RGR_1\Lock\obj\Debug\net8.0\Lock.genruntimeconfig.cache
+C:\Users\Yarik\source\repos\APPZ_RGR_1\Lock\obj\Debug\net8.0\ref\Lock.dll

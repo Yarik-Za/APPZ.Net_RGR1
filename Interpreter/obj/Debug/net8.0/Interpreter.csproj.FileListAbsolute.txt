@@ -1,0 +1,15 @@
+C:\Users\Yarik\source\repos\APPZ_RGR_1\Interpreter\bin\Debug\net8.0\Interpreter.exe
+C:\Users\Yarik\source\repos\APPZ_RGR_1\Interpreter\bin\Debug\net8.0\Interpreter.deps.json
+C:\Users\Yarik\source\repos\APPZ_RGR_1\Interpreter\bin\Debug\net8.0\Interpreter.runtimeconfig.json
+C:\Users\Yarik\source\repos\APPZ_RGR_1\Interpreter\bin\Debug\net8.0\Interpreter.dll
+C:\Users\Yarik\source\repos\APPZ_RGR_1\Interpreter\bin\Debug\net8.0\Interpreter.pdb
+C:\Users\Yarik\source\repos\APPZ_RGR_1\Interpreter\obj\Debug\net8.0\Interpreter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yarik\source\repos\APPZ_RGR_1\Interpreter\obj\Debug\net8.0\Interpreter.AssemblyInfoInputs.cache
+C:\Users\Yarik\source\repos\APPZ_RGR_1\Interpreter\obj\Debug\net8.0\Interpreter.AssemblyInfo.cs
+C:\Users\Yarik\source\repos\APPZ_RGR_1\Interpreter\obj\Debug\net8.0\Interpreter.csproj.CoreCompileInputs.cache
+C:\Users\Yarik\source\repos\APPZ_RGR_1\Interpreter\obj\Debug\net8.0\Interpreter.sourcelink.json
+C:\Users\Yarik\source\repos\APPZ_RGR_1\Interpreter\obj\Debug\net8.0\Interpreter.dll
+C:\Users\Yarik\source\repos\APPZ_RGR_1\Interpreter\obj\Debug\net8.0\refint\Interpreter.dll
+C:\Users\Yarik\source\repos\APPZ_RGR_1\Interpreter\obj\Debug\net8.0\Interpreter.pdb
+C:\Users\Yarik\source\repos\APPZ_RGR_1\Interpreter\obj\Debug\net8.0\Interpreter.genruntimeconfig.cache
+C:\Users\Yarik\source\repos\APPZ_RGR_1\Interpreter\obj\Debug\net8.0\ref\Interpreter.dll
